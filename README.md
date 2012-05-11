@@ -2,7 +2,7 @@ graylog2-mongo-es-migrator
 ==========================
 
 A small migration script to copy graylog2 messages from
-MongoDB to ElasticSearch.
+[MongoDB](http://www.mongodb.org/) to [ElasticSearch](http://www.elasticsearch.org/).
 
 Usage
 -----
